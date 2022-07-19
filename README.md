@@ -1,4 +1,4 @@
-# Wine Quality Project
+# What makes a good wine?
 
 ## This project focuses on predicting the quality of a wine given a set of indicators
 ## The dataset comes from kaggle : https://www.kaggle.com/datasets/danielpanizzo/wine-quality
